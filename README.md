@@ -2,5 +2,8 @@
 
 Convert AXI4 to NOC package, or NOC package to AXI4
 
-create by:  ToOddler
+create by:  Toddler.
             xdu
+
+## NoC core
+https://github.com/quanzaihh/My_Noc
